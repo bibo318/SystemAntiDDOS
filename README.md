@@ -6,7 +6,6 @@ Một cách đơn giản để bảo vệ ứng dụng web của bạn khỏi cu
 <img src="img/icon.png" >
 Tại mỗi kết nối, hệ thống tạm thời lưu địa chỉ IP của máy khách và theo dõi tần số kết nối của nó, nếu tần số kết nối này bất thường thì hệ thống coi đó là địa chỉ IP xấu và gửi yêu cầu xác minh dưới dạng xác minh. Captcha được tích hợp vào hệ thống, nếu vượt qua bước kiểm tra này thì đó là con người chứ không phải robot!
 ### Testing...
-<img src="img/Antiddos.gif">
 
 **"Dự án này đã được thử nghiệm bởi phần mềm Somes ddos ​​với số điểm 77%."**
 ## Làm thế nào để sử dụng nó?
